@@ -1,0 +1,18 @@
+body {  
+    background: #ffff;  
+}
+
+#hanoi-example {     
+    border: #ffff solid 6px;
+    margin: 0 auto;
+}
+
+@font-face {
+    font-family: 'BitBold';
+    src: url('../resources/fonts/BitBold.ttf') format('truetype');
+}
+
+#github {
+    margin: 5px;
+    float: left;
+}
